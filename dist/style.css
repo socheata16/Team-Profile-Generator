@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: brown;
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+    height: 100px;
+    width: 1600px;
+}
+
+.container {
+    margin: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.card-header {
+    background-color: aliceblue;
+}
+
+.card-body {
+    background-color: white;
+}
+
